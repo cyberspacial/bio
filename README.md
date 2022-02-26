@@ -1,6 +1,6 @@
 - 👋 Hello World! I’m @cyberspacial
 - 👀 I am seeking new out life, and new civilizations. I wish to learn as many aspects of computer and mechanical engineering as I can. 
-- 🌱 Currently learing Java, with a rudementary understanding of C++;
+- 🌱 Currently learing Java, with a rudementary understanding of C++ (Python is Next);
 - 💞️ Fellow aspiring game devs?
 - 📫 joss.mireles@gmail.com 
 
