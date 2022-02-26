@@ -1,5 +1,5 @@
 - 👋 Hello World! I’m @sadellight
-- 👀 I am seeking new otu life, and new opportunities. I wish to learn as many aspects of computer and mechanical engineering as I can. 
+- 👀 I am seeking new out life, and new opportunities. I wish to learn as many aspects of computer and mechanical engineering as I can. 
 - 🌱 Currently learing Java, with rudementary understanding of C++;
 - 💞️ Fellow aspiring game devs?
 - 📫 joss.mireles@gmail.com 
